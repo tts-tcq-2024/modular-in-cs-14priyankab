@@ -4,7 +4,7 @@ namespace TelCo.ColorCoder
     {
         static void Main(string[] args)
         {
-            TestRunner.ExecuteAllTest();
+            TestRunner.ExecuteAllTests();
         }
     }
 }
