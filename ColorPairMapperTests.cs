@@ -1,3 +1,6 @@
+using System;
+using System.Diagnostics;
+using System.Drawing;
 namespace TelCo.ColorCoder
 {
     public class ColorPairMapperTests : ColorPairMapperTestsBase
