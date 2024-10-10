@@ -27,7 +27,7 @@ namespace TelCo.ColorCoder
     }
 
 
- public abstract class ColorPairMapperTestsBase
+ public abstract class ColorPairMapperTestsBas
     {
         protected void VerifyColorPairMapping(ColorPairMapperBase mapper, int pairNumber, Color expectedMajor, Color expectedMinor)
         {
